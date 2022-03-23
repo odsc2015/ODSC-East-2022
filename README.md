@@ -1,6 +1,6 @@
-[ODSC East 2022](https://odsc.com/boston)  Prequestiona and Resource will be available here on April 1st
+[ODSC East 2022](https://odsc.com/boston) tutorial, workshop, and training prerequisites and resources will be available here on or after April 1st
 
-A partial list of confirmed talks sessions are listed below and slide decks will be updated post-event pending speaker approval. A complementary coding community pass is available [here](https://hubs.li/Q016gQcs0) 
+A partial list of confirmed talks sessions are listed below and slide decks will be updated post-event pending speaker approval. A [complementary coding community pass is available here](https://hubs.li/Q016gQcs0). 
 
 **The Wisdom of the Cloud**
 Allen Downey, PhD | Professor | Olin College and Author of Think Python, Think Bayes,
